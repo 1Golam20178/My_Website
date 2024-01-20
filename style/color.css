@@ -1,0 +1,19 @@
+
+ #red{
+
+    background-color: aqua;
+   }
+   #raj{
+
+    background-color: red;
+   }
+
+ .header{
+
+    height: 300px;
+    width: 600px;
+   
+    background-image: url(https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.1.865499671.1674400306&semt=sph);
+    background-size: 5%;
+    background-repeat: no-repeat;
+   }

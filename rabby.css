@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+.raj{
+
+    display: flex;
+}
+#ra{
+
+    margin-left: 30px;
+}
+.area{
+
+    display: flex;
+}
+#area{
+    margin-left: 200px;
+}
+table{
+
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td,th{
+
+    border: 1px solid;
+ 
+}
+#skill{
+
+    margin-left: 80px;
+}
+.skill{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
